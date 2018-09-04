@@ -1,7 +1,9 @@
 body {
     background: #000000;
-    color: #efeee7;
+    margin: auto;
 }
+
+
 
 .rainbow{
     background: red;
@@ -28,8 +30,23 @@ p{
 }
 
 a {
-    color: hotpink;
+    color: rgb(4, 179, 223);
 }
+.source{
+    color: rgb(4, 179, 223)
+}
+
+.info{
+    border: 1px solid rgb(4, 179, 223);
+    width: 600px;
+    margin-left: auto;
+    margin-right:auto;
+    margin-bottom: 20px;
+    color: goldenrod;
+    padding: 0px;
+}
+
+
 
 
 
