@@ -1,5 +1,5 @@
 # Turritopsis-dohrnii
- UT Coding Bootcamp - HTML/CSS BASICS \
+ UT Coding Bootcamp - HTML/CSS BASICS 
  
  Class Activity: Animal fact page
 
