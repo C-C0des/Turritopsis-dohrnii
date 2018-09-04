@@ -1,5 +1,7 @@
 # Turritopsis-dohrnii
- UT Coding Boot Camp - Class Activity: HTML/CSS BASICS
+ UT Coding Bootcamp - HTML/CSS BASICS
+ Class Activity: Animal fact page
+
 
 ## Deployment
 https://christinecodes.github.io/Turritopsis-dohrnii/
